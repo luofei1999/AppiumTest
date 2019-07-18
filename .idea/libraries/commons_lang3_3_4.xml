@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="commons-lang3-3.4">
+    <CLASSES>
+      <root url="jar://E:/Android/Appium/测试需要导入的库/commons-lang3-3.4.jar!/" />
+      <root url="jar://E:/Android/Appium/测试需要导入的库/java-client-7.0.0.jar!/" />
+      <root url="jar://E:/Android/Appium/测试需要导入的库/selenium-server-standalone-3.141.59.jar!/" />
+      <root url="jar://E:/Android/Appium/测试需要导入的库/testng-6.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
